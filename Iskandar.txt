@@ -1,1 +1,2 @@
-bvhguivyvhjcvc,
+git init 
+git clone
